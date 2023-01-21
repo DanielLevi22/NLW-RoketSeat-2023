@@ -18,6 +18,9 @@ header {
   justify-content: space-between;
   padding: 48px;
   position: fixed;
+  width: 100%;
+    background-color: #09090a;
+
 }
 
 button {
